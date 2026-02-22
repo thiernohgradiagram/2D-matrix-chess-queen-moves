@@ -6,7 +6,8 @@ The grid is rendered as an HTML table of 144 buttons. On page load, a JavaScript
 
 I built this entirely with vanilla JavaScript and direct DOM manipulation — no frameworks, no libraries for the core logic. The HTML uses a simple table layout styled with Bootstrap 4 and CSS, while the JavaScript handles all event binding, array indexing, and traversal logic from scratch. Each diagonal traversal function manually tracks row and column boundaries using integer division and modulo arithmetic on a flat button index, which taught me a lot about mapping between 1D and 2D representations.
 
-<img width="742" height="822" alt="image" src="https://github.com/user-attachments/assets/03818d7d-e224-48f1-936c-13558e99e2db" />
+<img width="593" height="617" alt="image" src="https://github.com/user-attachments/assets/e8961526-ab3f-476b-83ed-22ca2f516988" />
 
-<img width="746" height="782" alt="image" src="https://github.com/user-attachments/assets/833e6184-0dcb-4b5f-a3c9-b4ff51bbf94a" />
+<img width="615" height="632" alt="image" src="https://github.com/user-attachments/assets/1a50b2a4-5184-40df-9493-5ddfd105b5fd" />
+
 
